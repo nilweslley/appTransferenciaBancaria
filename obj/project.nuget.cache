@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F2mv0X8i/MrD5bbyCnerIALQpdYIhPAGhOxr8WlUpIm0ex9EkM2O3xI1J3mArSo/HaoeNPbPhH8czJP5egJ4Q==",
+  "success": true,
+  "projectFilePath": "E:\\01-DOCUMENTOS\\meus_projetos\\AppTransferenciaBancaria\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nilwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nilwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
